@@ -1,6 +1,6 @@
 [submodule "frontend"]
-	path = cityvoice
+	path = frontend
 	url = https://github.com/flemingslefthandrule/cityvoice.git
 [submodule "backend"]
-	path = cityvoicejs
+	path = backend
 	url = https://github.com/flemingslefthandrule/cityvoicejs.git
