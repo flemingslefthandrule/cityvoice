@@ -1,7 +1,9 @@
 # cityvoice
 
-## demo screenshots
-### login 
+<details>
+<summary>demo screenshots</summary>
+
+### login
 ![](assets/login.jpeg)
 ### signup
 ![](assets/signup.jpeg)
@@ -13,3 +15,5 @@
 ![](assets/post.jpeg)
 ### create poll
 ![](assets/poll.jpeg)
+
+<details>
