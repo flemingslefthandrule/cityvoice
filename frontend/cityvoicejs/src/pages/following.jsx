@@ -12,7 +12,7 @@ const Following = () => {
             <div className="middle h-[100vh] w-[60%] p-2 flex flex-col bg-gray-900 overflow-auto rounded-3xl">
                 <MiddleHome />
                 <div className="h-[100vh] w-[60%] flex flex-col space-y-2 overflow-auto">
-                    LocalFeed
+                    Following
                 </div>
             </div>
             <RightHome />

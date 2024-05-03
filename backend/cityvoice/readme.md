@@ -17,6 +17,7 @@ to do
         - [x] password
         - [x] phone
     - [x] logout `/user/logout`
+- [ ] custom middleware for auth
 - [x] profile page `/user/<username>`
     - [x] follow `/user/<username>/follow`
     - [x] unfollow `/user/<username>/unfollow`
@@ -38,5 +39,17 @@ to do
     - [x] search user by part of their username? `/user/whois/<part>/`
     - [x] search post by user? `/user/<username>/posts/`
     - [x] search posts tagged to user? `/user/<username>/tagged/`
+- [ ] feed
+   - [x] local feed
+   - [x] follow feed
+   - [ ] topic feed
+   - [ ] global feed
+- [ ] venv creation automate
 - [ ] notifications
 - [ ] talk with other servers
+
+## contributors
+
+<a href="https://github.com/flemingslefthandrule/cityvoice/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=flemingslefthandrule/cityvoice">
+</a>

@@ -144,7 +144,7 @@ const CreatePost = (props) => {
     return (
         <div className="flex flex-col p-2 space-y-2">
             <div className='flex'>
-                <div className='text-xl font-bold'>Create Post</div>
+                <div className='text-xl font-bold'>Create {isPost ? <>Post</>:<>Poll</>}</div>
                 <div className='grow'></div>
                 {isPost && <button className='rounded-[100px] bg-gray-500' onClick={handlePoll}>Poll</button>}
                 {!isPost && <button className='rounded-[100px] bg-gray-500' onClick={handlePost}>Post</button>}

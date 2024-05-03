@@ -22,13 +22,13 @@ class PostSerializer(serializers.ModelSerializer):
     class Meta:
         model = Post
         poll = PollSerializer(read_only=True)
-        fields = ['postid', 'author', 'title', 'body', 'label', 'tagged', 'created_at', 'poll']
+        fields = ['postid', 'author', 'title', 'body', 'label', 'tagged', 'created_at', 'upvotes', 'downvotes', 'poll']
         read_only_fields = ['postid', 'created_at','poll']
 
 class ReplySerializer(serializers.ModelSerializer):
     class Meta:
         model = Reply
-        fields = ['replyid', 'post', 'author', 'body', 'created_at', 'parent']
+        fields = ['replyid', 'post', 'author', 'body', 'created_at', 'upvotes', 'downvotes', 'parent']
         read_only_fields = ['replyid', 'created_at']
 
     def to_representation(self, instance):

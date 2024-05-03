@@ -1,16 +1,13 @@
-import { useEffect, useState } from "react"
+import { useState } from "react"
 import CreatePost from "./createPost"
-import LocalFeed from "../pages/localFeed";
-import Following from "../pages/following";
-import GlobalFeed from "../pages/globalFeed";
 
 
-const MiddleHome = (props) => {
+const MiddleHome = () => {
 
     const [isCreating, setIsCreating] = useState(false);
 
     return (
-        <div className="w-full"> 
+        <div className="w-full p-2"> 
             {isCreating ? (
                 <CreatePost setIsCreating={setIsCreating} />
             ) : (

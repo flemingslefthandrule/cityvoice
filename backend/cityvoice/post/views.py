@@ -1,4 +1,5 @@
 from rest_framework.generics import GenericAPIView, CreateAPIView, RetrieveAPIView, UpdateAPIView, DestroyAPIView
+from rest_framework.authentication import SessionAuthentication
 from rest_framework.permissions import IsAuthenticated
 from .models import Post, Reply, Label, Poll
 from .serializers import PostSerializer, ReplySerializer, PollSerializer
@@ -6,6 +7,7 @@ from rest_framework.response import Response
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
 from rest_framework.views import APIView
+from rest_framework import status
 
 from django.db.models import Q
 
@@ -17,12 +19,28 @@ def getlabels(request):
     } for label in labels]
 
     return JsonResponse(label_data, safe=False)
+       
 class RenderLocalFeed(APIView):
     serializer_class = PostSerializer
 
     def get(self, request):
         posts = Post.objects.all().order_by("-created_at")[:50] 
         return Response(self.serializer_class(posts, many=True).data) 
+
+
+class RenderFollowFeed(APIView):
+    serializer_class = PostSerializer
+    authentication_classes = [SessionAuthentication]
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request):
+        user = request.user
+        if user.is_authenticated:
+            following = user.get_following
+            posts = Post.objects.filter(author__in=following).order_by("-created_at")[:50]
+            serialized_posts = self.serializer_class(posts, many=True).data
+            return Response(serialized_posts)
+ 
 
 
 class CreateNewPostView(CreateAPIView):
