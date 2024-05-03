@@ -1,5 +1,7 @@
 # cityvoice
 
+a decentralised social media network
+
 <details>
 <summary>demo screenshots</summary>
 
@@ -16,4 +18,4 @@
 ### create poll
 ![](assets/poll.jpeg)
 
-<details>
+</details>
