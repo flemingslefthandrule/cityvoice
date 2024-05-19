@@ -1,6 +1,23 @@
-# cityvoice
+# CityVoice: A Decentralized Social Media Network for Local Communities
 
-a decentralised social media network
+## Introduction
+
+CityVoice is a decentralized social media network designed to empower local communities by providing a platform for citizens to connect, share ideas, and engage in meaningful discussions. Our platform is built on the principles of transparency, accountability, and community-driven decision-making.
+
+## How it Works
+
+CityVoice is a decentralized network of servers, each hosted and managed by local communities. This allows for a more democratic and participatory approach to social media, where users have control over their data and can engage with their local community in a more meaningful way.
+
+## Why it Matters
+
+In today's digital landscape, it's more important than ever to have a platform that prioritizes community engagement, transparency, and accountability. By using cityvoice, you'll be able to:
+
+- Connect with your local community and engage in meaningful discussions
+- Participate in democratic decision-making and shape the future of your community
+
+Get Involved
+
+CityVoice is an open-source project, and we welcome contributions from developers, designers, and community organizers alike. Whether you're interested in improving our codebase, designing new features, or helping to spread the word, we'd love to have you on board.
 
 <details>
 <summary>demo screenshots</summary>
@@ -57,3 +74,7 @@ Engage in democratic decision-making by creating and participating in polls.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### License
+
+CityVoice is licensed under the [MIT License](license.md).
