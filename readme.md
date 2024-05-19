@@ -9,22 +9,27 @@ a decentralised social media network
 Securely access your Cityvoice account with our easy-to-use login system.
 
 ![](assets/login.jpeg)
+
 ### Signup
 Create an account and start engaging with your local community today!
 
 ![](assets/signup.jpeg)
+
 ### Profile
 Showcase your personality and interests with a customizable profile page.
 
 ![](assets/profile.jpeg)
+
 ### Search
 Find and connect with like-minded individuals, local businesses, and community leaders.
 
 ![](assets/search.jpeg)
+
 ### Create post
 Share your thoughts, ideas, opinions and issues with the community.
 
 ![](assets/post.jpeg)
+
 ### create poll
 Engage in democratic decision-making by creating and participating in polls.
 
