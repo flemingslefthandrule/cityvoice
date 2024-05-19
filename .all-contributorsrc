@@ -38,6 +38,7 @@
   "contributorsPerLine": 7,
   "repoHost": "https://github.com",
   "commitConvention": "angular",
+  "contributorsSortAlphabetically": "true",
   "skipCi": true,
   "commitType": "docs"
 }
