@@ -41,6 +41,7 @@ Engage in democratic decision-making by creating and participating in polls.
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://aqclf.xyz"><img src="https://avatars.githubusercontent.com/u/126369826?v=4?s=100" width="100px;" alt="sam"/><br /><sub><b>sam</b></sub></a><br /><a href="#maintenance-aquaticcalf" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nischal-18"><img src="https://avatars.githubusercontent.com/u/136146493?v=4?s=100" width="100px;" alt="M.G.Nischal"/><br /><sub><b>M.G.Nischal</b></sub></a><br /><a href="#maintenance-Nischal-18" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
