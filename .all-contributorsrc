@@ -6,7 +6,15 @@
   ],
   "imageSize": 100,
   "contributors": [
-
+    {
+      "login": "MGuruNikhil",
+      "name": "M Guru Nikhil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130775801?v=4",
+      "profile": "https://github.com/MGuruNikhil",
+      "contributions": [
+        "maintenance"
+      ]
+    }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
