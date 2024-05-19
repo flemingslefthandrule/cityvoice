@@ -6,7 +6,7 @@ a decentralised social media network
 <summary>demo screenshots</summary>
 
 ### Login
-Securely access your CityVoice account with our easy-to-use login system.
+Securely access your Cityvoice account with our easy-to-use login system.
 
 ![](assets/login.jpeg)
 ### Signup
