@@ -6,7 +6,15 @@
   ],
   "imageSize": 100,
   "contributors": [
-
+    {
+      "login": "aquaticcalf",
+      "name": "sam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126369826?v=4",
+      "profile": "http://aqclf.xyz",
+      "contributions": [
+        "maintenance"
+      ]
+    }
   ],
   "repoType": "github",
   "contributorsPerLine": 7,
