@@ -42,6 +42,7 @@ Engage in democratic decision-making by creating and participating in polls.
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://aqclf.xyz"><img src="https://avatars.githubusercontent.com/u/126369826?v=4?s=100" width="100px;" alt="sam"/><br /><sub><b>sam</b></sub></a><br /><a href="#maintenance-aquaticcalf" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nischa1Mv"><img src="https://avatars.githubusercontent.com/u/118107697?v=4?s=100" width="100px;" alt="Nischal_UwU"/><br /><sub><b>Nischal_UwU</b></sub></a><br /><a href="#maintenance-Nischa1Mv" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MGuruNikhil"><img src="https://avatars.githubusercontent.com/u/130775801?v=4?s=100" width="100px;" alt="M Guru Nikhil"/><br /><sub><b>M Guru Nikhil</b></sub></a><br /><a href="#maintenance-MGuruNikhil" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
