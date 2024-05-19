@@ -37,6 +37,13 @@ Engage in democratic decision-making by creating and participating in polls.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://aqclf.xyz"><img src="https://avatars.githubusercontent.com/u/126369826?v=4?s=100" width="100px;" alt="sam"/><br /><sub><b>sam</b></sub></a><br /><a href="#maintenance-aquaticcalf" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
