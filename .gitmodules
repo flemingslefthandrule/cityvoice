@@ -1,6 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/flemingslefthandrule/cityvoicepy.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/flemingslefthandrule/cityvoicejs.git
