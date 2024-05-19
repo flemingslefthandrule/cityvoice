@@ -37,6 +37,13 @@ Engage in democratic decision-making by creating and participating in polls.
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MGuruNikhil"><img src="https://avatars.githubusercontent.com/u/130775801?v=4?s=100" width="100px;" alt="M Guru Nikhil"/><br /><sub><b>M Guru Nikhil</b></sub></a><br /><a href="#maintenance-MGuruNikhil" title="Maintenance">🚧</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
